@@ -46,7 +46,5 @@ Google Generative AI - AI integration using Gemini 2.5 Flash
 
 CORS - Cross-Origin Resource Sharing middleware
 
-# 🏗️ Project Structure
 
-<img width="235" height="608" alt="image" src="https://github.com/user-attachments/assets/51501a7f-d67d-4ca0-aae5-53f6543cc023" />
 
